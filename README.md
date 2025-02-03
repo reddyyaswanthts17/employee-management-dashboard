@@ -28,6 +28,27 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/reddyyaswanthts17/employee-management-dashboard.git
 
+2. Navigate to the project directory:
+
+   cd employee-management
+
+
+3. Install the dependencies:
+
+   npm install
+
+4. Run the project locally:
+
+   npm start
+
+   -This will start the development server and open the application in your browser at http://localhost:3000.
+   
+   or
+   
+   npm run dev
+
+   -For Vite (This will start the development server and open the application in your browser at http://localhost:5174)
+
 
 ## Features
 
